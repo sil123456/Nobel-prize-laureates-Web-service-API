@@ -1,0 +1,778 @@
+745,"Stanford University","Stanford, CA","USA",1,1
+102,"Niels Bohr Institute","Copenhagen","Denmark",2,2
+779,"Technion - Israel Institute of Technology","Haifa","Israel",3,3
+259,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",4,4
+114,"International Centre for Theoretical Physics","Trieste","Italy",5,5
+114,"Imperial College","London","United Kingdom",5,6
+982,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",6,7
+843,"Weizmann Institute of Science","Rehovot","Israel",8,8
+866,"Johns Hopkins University","Baltimore, MD","USA",9,9
+866,"Space Telescope Science Institute","Baltimore, MD","USA",9,10
+199,"Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie","Berlin-Dahlem","Germany",10,11
+199,"Berlin University","Berlin","Germany",10,12
+164,"Munich University","Munich","Germany",11,13
+185,"Goettingen University","Göttingen","Germany",12,14
+292,"California Institute of Technology (Caltech)","Pasadena, CA","USA",14,15
+853,"Hokkaido University","Sapporo","Japan",15,16
+978,"Asahi Kasei Corporation","Tokyo","Japan",16,17
+978,"Meijo University","Nagoya","Japan",16,18
+729,"University of California","Santa Barbara, CA","USA",18,19
+376,"University of Cambridge","Cambridge","United Kingdom",19,20
+730,"University of Pennsylvania","Philadelphia, PA","USA",20,21
+11,"University of Chicago","Chicago, IL","USA",21,22
+403,"Université Catholique de Louvain","Louvain","Belgium",23,23
+26,"Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik","Berlin","Germany",24,24
+814,"Universit&eacute; Paris-Sud","Orsay","France",25,25
+814,"Unit&eacute; Mixte de Physique CNRS/THALES","Orsay","France",25,26
+332,"Szeged University","Szeged","Hungary",29,27
+304,"University of Heidelberg","Heidelberg","Germany",30,28
+83,"P.N. Lebedev Physical Institute","Moscow","USSR",31,29
+766,"Argonne National Laboratory","Argonne, IL","USA",33,30
+306,"Rockefeller Institute for Medical Research","New York, NY","USA",34,31
+392,"Carnegie Institution of Washington","Long Island, New York, NY","USA",36,32
+450,"University of Texas Southwestern Medical Center at Dallas","Dallas, TX","USA",38,33
+87,"École Normale Supérieure","Paris","France",39,34
+174,"University of Zurich","Zurich","Switzerland",40,35
+417,"Tufts University","Medford, MA","USA",42,36
+305,"Uppsala University","Uppsala","Sweden",43,37
+300,"Institut Pasteur","Paris","France",44,38
+882,"Harvard University","Cambridge, MA","USA",46,39
+882,"Harvard Business School","Boston, MA","USA",46,40
+719,"Trinity College","Cambridge","United Kingdom",47,41
+360,"Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital","New York, NY","USA",51,42
+849,"University of Manchester","Manchester","United Kingdom",52,43
+381,"Institut Pasteur","Paris","France",54,44
+990,"University of California","Los Angeles, CA","USA",55,45
+377,"University College","London","United Kingdom",57,46
+412,"Veterans Administration Hospital","New Orleans, LA","USA",58,47
+802,"Stanford University School of Medicine","Stanford, CA","USA",59,48
+926,"Princeton University","Princeton, NJ","USA",60,49
+768,"University of Illinois","Urbana, IL","USA",61,50
+101,"University of Cambridge","Cambridge","United Kingdom",62,51
+214,"National Institute for Medical Research","London","United Kingdom",64,52
+311,"London University","London","United Kingdom",65,53
+891,"University of Southern California","Los Angeles, CA","USA",66,54
+208,"Uppsala University","Uppsala","Sweden",68,55
+111,"Bell Laboratories","Holmdel, NJ","USA",69,56
+960,"Bell Laboratories","Holmdel, NJ","USA",70,57
+920,"Queen's University","Kingston","Canada",71,58
+33,"University of Chicago","Chicago, IL","USA",72,59
+186,"London University","London","United Kingdom",73,60
+368,"Stanford University","Stanford, CA","USA",75,61
+119,"Stanford University","Stanford, CA","USA",76,62
+203,"University of Helsinki","Helsinki","Finland",77,63
+722,"Göteborg University","Gothenburg","Sweden",78,64
+310,"Copenhagen University","Copenhagen","Denmark",79,65
+780,"Technion - Israel Institute of Technology","Haifa","Israel",82,66
+923,"University of North Carolina","Chapel Hill, NC","USA",83,67
+428,"Cold Spring Harbor Laboratory","Cold Spring Harbor, NY","USA",85,68
+942,"LIGO/VIRGO Collaboration",\N,\N,86,69
+942,"California Institute of Technology (Caltech)","Pasadena, CA","USA",86,70
+789,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre","Nedlands","Australia",87,71
+789,"University of Western Australia","Perth","Australia",87,72
+743,"The Scripps Research Institute","La Jolla, CA","USA",88,73
+409,"The Institute for Cancer Research","Philadelphia, PA","USA",89,74
+419,"Harvard Medical School","Boston, MA","USA",90,75
+103,"Nordita","Copenhagen","Denmark",91,76
+936,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",92,77
+426,"Karolinska Institutet","Stockholm","Sweden",93,78
+933,"University of Groningen","Groningen","the Netherlands",94,79
+345,"Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine)","Buenos Aires","Argentina",95,80
+445,"Max-Planck-Institut für medizinische Forschung","Heidelberg","Germany",96,81
+689,"Stockholm School of Economics","Stockholm","Sweden",98,82
+145,"McMaster University","Hamilton, Ontario","Canada",99,83
+99,"University of Cambridge","Cambridge","United Kingdom",105,84
+879,"Stanford University School of Medicine","Stanford, CA","USA",106,85
+865,"Australian National University","Weston Creek","Australia",107,86
+861,"University of Texas Southwestern Medical Center at Dallas","Dallas, TX","USA",108,87
+861,"The Scripps Research Institute","La Jolla, CA","USA",108,88
+261,"Rockefeller University","New York, NY","USA",109,89
+105,"Stanford Linear Accelerator Center","Stanford, CA","USA",110,90
+34,"University of Cambridge","Cambridge","United Kingdom",111,91
+298,"Pavia University","Pavia","Italy",112,92
+189,"University of Heidelberg","Heidelberg","Germany",114,93
+189,"I.G. Farbenindustrie A.G.","Heidelberg","Germany",114,94
+343,"Washington University","St. Louis, MO","USA",115,95
+43,"California Institute of Technology (Caltech)","Pasadena, CA","USA",116,96
+740,"University of Colorado, JILA","Boulder, CO","USA",119,97
+124,"CERN","Geneva","Switzerland",120,98
+836,"Johns Hopkins University School of Medicine","Baltimore, MD","USA",123,99
+55,"Bristol University","Bristol","United Kingdom",124,100
+431,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",125,101
+384,"University of Chicago, Ben May Laboratory for Cancer Research","Chicago, IL","USA",126,102
+25,"Bureau International des Poids et Mesures (International Bureau of Weights and Measures)","Sèvres","France",127,103
+22,"Edinburgh University","Edinburgh","United Kingdom",129,104
+81,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",130,105
+269,"Du Pont","Wilmington, DE","USA",131,106
+838,"Standard Telecommunication Laboratories","Harlow","United Kingdom",132,107
+838,"Chinese University of Hong Kong","Hong Kong","China",132,108
+987,"Rockefeller University","New York, NY","USA",133,109
+318,"Institut Pasteur","Tunis","Tunisia",134,110
+307,"Sorbonne University","Paris","France",135,111
+68,"Institute for Advanced Study","Princeton, NJ","USA",136,112
+319,"Utrecht University","Utrecht","the Netherlands",137,113
+241,"National Institutes of Health","Bethesda, MD","USA",138,114
+404,"Rockefeller University","New York, NY","USA",139,115
+404,"Université Catholique de Louvain","Louvain","Belgium",139,116
+453,"Max-Planck-Institut für Entwicklungsbiologie","Tübingen","Germany",141,117
+858,"London School of Economics and Political Science","London","United Kingdom",142,118
+873,"Princeton University","Princeton, NJ","USA",143,119
+153,"Collège de France","Paris","France",144,120
+153,"École Normale Supérieure","Paris","France",144,121
+146,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",146,122
+44,"Bell Telephone Laboratories","New York, NY","USA",147,123
+772,"University of California","San Diego, CA","USA",148,124
+333,"Ghent University","Ghent","Belgium",150,125
+803,"University of Massachusetts Medical School","Worcester, MA","USA",151,126
+410,"National Institutes of Health","Bethesda, MD","USA",153,127
+857,"Northwestern University","Evanston, IL","USA",155,128
+857,"Aarhus University","Aarhus","Denmark",155,129
+867,"Technion - Israel Institute of Technology","Haifa","Israel",156,130
+363,"Istituto Superiore di Sanità (Chief Institute of Public Health)","Rome","Italy",157,131
+157,"Princeton University","Princeton, NJ","USA",158,132
+759,"Princeton University","Princeton, NJ","USA",159,133
+733,"University of California","Berkeley, CA","USA",160,134
+415,"Johns Hopkins University School of Medicine","Baltimore, MD","USA",161,135
+406,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",163,136
+423,"Harvard Medical School","Boston, MA","USA",164,137
+776,"University of California, Kavli Institute for Theoretical Physics","Santa Barbara, CA","USA",165,138
+928,"University of Washington","Seattle, WA","USA",166,139
+877,"National Institute of Standards and Technology","Boulder, CO","USA",167,140
+877,"University of Colorado","Boulder, CO","USA",167,141
+149,"Cornell University","Ithaca, NY","USA",168,142
+93,"Imperial College","London","United Kingdom",171,143
+237,"Imperial College","London","United Kingdom",172,144
+362,"Columbia University","New York, NY","USA",175,145
+975,"University of Geneva","Geneva","Switzerland",176,146
+975,"University of Cambridge","Cambridge","United Kingdom",176,147
+74,"University of California","Berkeley, CA","USA",177,148
+267,"University of California","Los Angeles, CA","USA",178,149
+962,"University of Waterloo","Waterloo","Canada",179,150
+230,"University of Oxford, Royal Society","Oxford","United Kingdom",181,151
+150,"Stanford University","Stanford, CA","USA",182,152
+710,"Washington University","St. Louis, MO","USA",183,153
+264,"Harvard University","Cambridge, MA","USA",184,154
+443,"Fred Hutchinson Cancer Research Center","Seattle, WA","USA",185,155
+59,"Harvard University","Cambridge, MA","USA",186,156
+397,"Vanderbilt University","Nashville, TN","USA",187,157
+324,"University of Cambridge","Cambridge","United Kingdom",188,158
+446,"University of Washington","Seattle, WA","USA",189,159
+807,"Columbia University","New York, NY","USA",190,160
+166,"Landwirtschaftliche Hochschule (Agricultural College)","Berlin","Germany",191,161
+905,"Norwegian University of Science and Technology (NTNU)","Trondheim","Norway",192,162
+336,"Saint Louis University","St. Louis, MO","USA",193,163
+452,"California Institute of Technology (Caltech)","Pasadena, CA","USA",194,164
+349,"Mayo Clinic","Rochester, MN","USA",195,165
+787,"Arizona State University","Tempe, AZ","USA",196,166
+787,"Federal Reserve Bank of Minneapolis","Minneapolis, MN","USA",196,167
+365,"Rockefeller Institute for Medical Research","New York, NY","USA",197,168
+52,"Department of Scientific and Industrial Research","London","United Kingdom",198,169
+447,"University of Washington","Seattle, WA","USA",199,170
+212,"University of California","Berkeley, CA","USA",200,171
+348,"University of Lisbon","Lisbon","Portugal",201,172
+348,"Neurological Institute","Lisbon","Portugal",201,173
+852,"Purdue University","West Lafayette, IN","USA",202,174
+275,"Harvard University","Cambridge, MA","USA",206,175
+846,"Indiana University","Bloomington, IN","USA",210,176
+846,"Arizona State University","Tempe, AZ","USA",210,177
+835,"University of California","San Francisco, CA","USA",211,178
+161,"Berlin University","Berlin","Germany",213,179
+293,"Marburg University","Marburg","Germany",214,180
+72,"University of California","Berkeley, CA","USA",215,181
+991,"Max Planck Unit for the Science of Pathogens","Berlin","Germany",217,182
+46,"Rome University","Rome","Italy",218,183
+909,"Janelia Research Campus, Howard Hughes Medical Institute","Ashburn, VA","USA",219,184
+738,"University of Colorado, JILA","Boulder, CO","USA",220,185
+454,"Princeton University","Princeton, NJ","USA",221,186
+724,"Columbia University","New York, NY","USA",222,187
+821,"Institute for Advanced Study","Princeton, NJ","USA",223,188
+47,"University of California","Berkeley, CA","USA",226,189
+167,"Victoria University","Manchester","United Kingdom",227,190
+57,"Trinity College","Dublin","Ireland",228,191
+340,"University of Oxford","Oxford","United Kingdom",230,192
+244,"Technical University","Munich","Germany",231,193
+127,"Fritz-Haber-Institut der Max-Planck-Gesellschaft","Berlin","Germany",232,194
+444,"Max-Planck-Institut für Biophysikalische Chemie","Göttingen","Germany",233,195
+39,"Berlin University","Berlin","Germany",234,196
+983,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",235,197
+894,"University of Chicago","Chicago, IL","USA",236,198
+78,"Princeton University","Princeton, NJ","USA",238,199
+929,"Princeton University","Princeton, NJ","USA",242,200
+283,"University of California","Irvine, CA","USA",243,201
+58,"Stanford University","Stanford, CA","USA",245,202
+379,"Max-Planck-Institut für Zellchemie","Munich","Germany",246,203
+14,"Strasbourg University","Strasbourg","Germany",247,204
+460,"University of Texas Medical School at Houston","Houston, TX","USA",249,205
+786,"Carnegie Mellon University","Pittsburgh, PA","USA",250,206
+786,"University of California","Santa Barbara, CA","USA",250,207
+963,"California Institute of Technology (Caltech)","Pasadena, CA","USA",251,208
+372,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",252,209
+180,"University of Cambridge","Cambridge","United Kingdom",253,210
+699,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",254,211
+887,"Université Libre de Bruxelles","Brussels","Belgium",255,212
+380,"Institut Pasteur","Paris","France",256,213
+824,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur","Paris","France",258,214
+778,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",260,215
+193,"Institut du Radium","Paris","France",262,216
+358,"Western Reserve University","Cleveland, OH","USA",265,217
+313,"University of Toronto","Toronto","Canada",266,218
+148,"University of California","Irvine, CA","USA",267,219
+222,"University of Cambridge","Cambridge","United Kingdom",268,220
+222,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",269,221
+179,"University of Oxford","Oxford","United Kingdom",270,222
+190,"University of Heidelberg","Heidelberg","Germany",273,223
+190,"I.G. Farbenindustrie A.G.","Mannheim-Rheinau","Germany",273,224
+60,"Groningen University","Groningen","the Netherlands",276,225
+177,"Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie","Berlin-Dahlem","Germany",277,226
+355,"Harvard Medical School","Boston, MA","USA",278,227
+355,"Massachusetts General Hospital","Boston, MA","USA",278,228
+181,"Graz University","Graz","Austria",279,229
+12,"Sorbonne University","Paris","France",281,230
+708,"University of Chicago","Chicago, IL","USA",284,231
+245,"Imperial College","London","United Kingdom",285,232
+371,"Harvard University","Cambridge, MA","USA",286,233
+253,"University of Heidelberg","Heidelberg","Germany",287,234
+744,"University of California","Berkeley, CA","USA",288,235
+280,"University of Southern California","Los Angeles, CA","USA",289,236
+364,"California Institute of Technology (Caltech)","Pasadena, CA","USA",290,237
+421,"Jackson Laboratory","Bar Harbor, ME","USA",293,238
+201,"Stockholm University","Stockholm","Sweden",294,239
+405,"Yale University, School of Medicine","New Haven, CT","USA",295,240
+840,"Bell Laboratories","Murray Hill, NJ","USA",296,241
+805,"University of California","Berkeley, CA","USA",297,242
+439,"Wellcome Research Laboratories","Research Triangle Park, NC","USA",298,243
+326,"University of Rochester","Rochester, NY","USA",299,244
+696,"University of Chicago","Chicago, IL","USA",300,245
+964,"University of Missouri","Columbia","USA",301,246
+45,"London University","London","United Kingdom",302,247
+235,"Royal Institution of Great Britain","London","United Kingdom",303,248
+327,"Harvard University","Cambridge, MA","USA",304,249
+387,"Harvard University","Cambridge, MA","USA",305,250
+142,"École Supérieure de Physique et Chimie","Paris","France",306,251
+142,"CERN","Geneva","Switzerland",306,252
+430,"Basel Institute for Immunology","Basel","Switzerland",307,253
+398,"Rockefeller University","New York, NY","USA",309,254
+697,"University of California","Berkeley, CA","USA",310,255
+961,"École Polytechnique","Palaiseau","France",311,256
+961,"University of Michigan","Ann Arbor, MI","USA",311,257
+158,"Utrecht University","Utrecht","the Netherlands",312,258
+128,"IBM Zurich Research Laboratory","Rüschlikon","Switzerland",313,259
+334,"Munster University","Munster","Germany",314,260
+816,"Fritz-Haber-Institut der Max-Planck-Gesellschaft","Berlin","Germany",315,261
+240,"National Research Council of Canada","Ottawa","Canada",316,262
+438,"Wellcome Research Laboratories","Research Triangle Park, NC","USA",318,263
+344,"Washington University","St. Louis, MO","USA",319,264
+229,"Institute of Technology","Milan","Italy",322,265
+213,"University of California","Berkeley, CA","USA",323,266
+418,"Central Research Laboratories, EMI","London","United Kingdom",324,267
+972,"Johns Hopkins University","Baltimore, MD","USA",327,268
+13,"Marconi Wireless Telegraph Co. Ltd.","London","United Kingdom",328,269
+461,"Rockefeller University","New York, NY","USA",330,270
+461,"Howard Hughes Medical Institute","New York, NY","USA",330,271
+17,"Swedish Gas-Accumulator Co.","Lidingö, Stockholm","Sweden",332,272
+31,"Halle University","Halle","Germany",333,273
+777,"California Institute of Technology (Caltech)","Pasadena, CA","USA",335,274
+389,"University of Wisconsin","Madison, WI","USA",336,275
+751,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",337,276
+416,"Johns Hopkins University School of Medicine","Baltimore, MD","USA",339,277
+91,"Royal Institute of Technology","Stockholm","Sweden",340,278
+88,"Cornell University","Ithaca, NY","USA",341,279
+188,"Technische Hochschule (Institute of Technology)","Munich","Germany",342,280
+136,"University of Washington","Seattle, WA","USA",343,281
+354,"Sheffield University","Sheffield","United Kingdom",344,282
+329,"University of Freiburg im Breisgau","Breisgau","Germany",345,283
+187,"Stockholm University","Stockholm","Sweden",346,284
+823,"German Cancer Research Center","Heidelberg","Germany",347,285
+192,"Columbia University","New York, NY","USA",348,286
+441,"University of California School of Medicine","San Francisco, CA","USA",349,287
+704,"City University of New York","New York, NY","USA",351,288
+272,"Max-Planck-Institut für Biophysik","Frankfurt-on-the-Main","Germany",353,289
+985,"National Institutes of Health","Bethesda, MD","USA",354,290
+18,"Leiden University","Leiden","the Netherlands",355,291
+129,"IBM Zurich Research Laboratory","Rüschlikon","Switzerland",357,292
+184,"Munich University","Munich","Germany",358,293
+2,"Leiden University","Leiden","the Netherlands",359,294
+4,"École Polytechnique","Paris","France",360,295
+165,"Sorbonne University","Paris","France",363,296
+335,"Polytechnic Institute","Copenhagen","Denmark",364,297
+260,"Stanford University","Stanford, CA","USA",368,298
+139,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",369,299
+262,"The Medical Foundation of Buffalo","Buffalo, NY","USA",371,300
+252,"Purdue University","West Lafayette, IN","USA",372,301
+727,"University of California","Santa Barbara, CA","USA",373,302
+338,"Rockefeller Institute for Medical Research","New York, NY","USA",374,303
+691,"Carnegie Mellon University","Pittsburgh, PA","USA",375,304
+342,"Indiana University","Bloomington, IN","USA",377,305
+216,"University of Freiburg","Breisgau","Germany",378,306
+216,"Staatliches Institut für makromolekulare Chemie (State Research Institute for Macromolecular Chemistry), Freiburg","Breisgau","Germany",378,307
+731,"University of Tsukuba","Tokyo","Japan",380,308
+54,"Kyoto Imperial University","Kyoto","Japan",381,309
+54,"Columbia University","New York, NY","USA",381,310
+907,"Nagoya University","Nagoya","Japan",382,311
+156,"Columbia University","New York, NY","USA",384,312
+408,"University of Wisconsin","Madison, WI","USA",385,313
+359,"Karolinska Institutet, Nobel Medical Institute","Stockholm","Sweden",386,314
+71,"Lomonosov Moscow State University","Moscow","USSR",387,315
+71,"P.N. Lebedev Physical Institute","Moscow","USSR",387,316
+721,"Lomonosov Moscow State University","Moscow","USSR",388,317
+721,"P.N. Lebedev Physical Institute","Moscow","USSR",388,318
+301,"Institut Pasteur","Paris","France",389,319
+250,"Université Libre de Bruxelles","Brussels","Belgium",390,320
+250,"University of Texas","Austin, TX","USA",390,321
+194,"Institut du Radium","Paris","France",402,322
+191,"General Electric Company","Schenectady, NY","USA",403,323
+781,"University of California","Irvine, CA","USA",404,324
+906,"Meijo University","Nagoya","Japan",406,325
+906,"Nagoya University","Nagoya","Japan",406,326
+49,"Columbia University","New York, NY","USA",407,327
+296,"Military Medical Academy","St. Petersburg","Russia",409,328
+98,"General Electric Company","Schenectady, NY","USA",410,329
+130,"IBM Zurich Research Laboratory","Rüschlikon","Switzerland",412,330
+80,"University of Heidelberg","Heidelberg","Germany",413,331
+440,"University of California School of Medicine","San Francisco, CA","USA",415,332
+930,"Brown University","Providence, RI","USA",416,333
+10,"University of Cambridge","Cambridge","United Kingdom",418,334
+728,"Texas Instruments","Dallas, TX","USA",420,335
+134,"CERN","Geneva","Switzerland",421,336
+837,"Harvard Medical School","Boston, MA","USA",422,337
+837,"Massachusetts General Hospital","Boston, MA","USA",422,338
+837,"Howard Hughes Medical Institute","Boston, MA","USA",422,339
+160,"Berlin University","Berlin","Germany",423,340
+944,"University of Lausanne","Lausanne","Switzerland",424,341
+382,"Institut Pasteur","Paris","France",425,342
+715,"University of Cambridge","Cambridge","United Kingdom",426,343
+204,"Cornell University","Ithaca, NY","USA",427,344
+41,"Liverpool University","Liverpool","United Kingdom",428,345
+116,"University of Chicago","Chicago, IL","USA",429,346
+690,"University of Cambridge","Cambridge","United Kingdom",430,347
+884,"Yale University","New Haven, CT","USA",431,348
+30,"Goettingen University","Göttingen","Germany",432,349
+732,"University of Chicago","Chicago, IL","USA",433,350
+700,"Center for Study of Public Choice","Fairfax, VA","USA",434,351
+958,"Parker Institute for Cancer Immunotherapy","San Francisco, CA","USA",435,352
+958,"University of Texas MD Anderson Cancer Center","Houston, TX","USA",435,353
+973,"Princeton University","Princeton, NJ","USA",436,354
+104,"Columbia University","New York, NY","USA",437,355
+695,"Yale University","New Haven, CT","USA",438,356
+373,"Harvard University","Cambridge, MA","USA",439,357
+678,"The Netherlands School of Economics","Rotterdam","the Netherlands",440,358
+223,"Polarographic Institute of the Czechoslovak Academy of Science","Prague","Czechoslovakia",442,359
+32,"Sorbonne University","Paris","France",444,360
+420,"Université de Paris, Laboratoire Immuno-Hématologie","Paris","France",445,361
+915,"Toulouse School of Economics (TSE)","Toulouse","France",446,362
+268,"Université Louis Pasteur","Strasbourg","France",448,363
+268,"Collège de France","Paris","France",448,364
+931,"University of Strasbourg","Strasbourg","France",450,365
+938,"University of Maine","Maine, ME","USA",451,366
+992,"University of California","Berkeley, CA","USA",452,367
+289,"Aarhus University","Aarhus","Denmark",453,368
+138,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",454,369
+263,"US Naval Research Laboratory","Washington, DC","USA",455,370
+945,"Columbia University","New York, NY","USA",457,371
+270,"University of Texas Southwestern Medical Center at Dallas","Dallas, TX","USA",459,372
+270,"Howard Hughes Medical Institute","Dallas, TX","USA",459,373
+15,"Amsterdam University","Amsterdam","the Netherlands",460,374
+316,"Copenhagen University","Copenhagen","Denmark",461,375
+24,"Greifswald University","Greifswald","Germany",462,376
+756,"Virginia Commonwealth University","Richmond, VA","USA",464,377
+976,"University of Texas","Austin, TX","USA",465,378
+66,"University of Illinois","Urbana, IL","USA",466,379
+66,"University of Illinois","Urbana, IL","USA",467,380
+711,"University of California","Berkeley, CA","USA",468,381
+227,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",469,382
+804,"NASA Goddard Space Flight Center","Greenbelt, MD","USA",470,383
+266,"University of Toronto","Toronto","Canada",471,384
+56,"Atomic Energy Research Establishment","Harwell, Berkshire","United Kingdom",472,385
+247,"University of Sussex","Brighton","United Kingdom",473,386
+752,"The Wellcome Trust Sanger Institute","Cambridge","United Kingdom",474,387
+288,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",475,388
+356,"Harvard Medical School","Boston, MA","USA",476,389
+356,"Research Division of Infectious Diseases, Children's Medical Center","Boston, MA","USA",476,390
+712,"Princeton University","Princeton, NJ","USA",477,391
+205,"Rockefeller Institute for Medical Research","Princeton, NJ","USA",479,392
+109,"Harvard University","Cambridge, MA","USA",480,393
+792,"University of Colorado, JILA","Boulder, CO","USA",482,394
+792,"National Institute of Standards and Technology","Boulder, CO","USA",482,395
+314,"University of Toronto","Toronto","Canada",483,396
+903,"University College","London","United Kingdom",484,397
+291,"Northwestern University","Evanston, IL","USA",485,398
+681,"All Souls College","Oxford","United Kingdom",486,399
+427,"The Wellcome Research Laboratories","Beckenham","United Kingdom",488,400
+442,"Brigham and Women's Hospital","Boston, MA","USA",494,401
+746,"Columbia University","New York, NY","USA",495,402
+337,"Washington University","St. Louis, MO","USA",496,403
+144,"Princeton University","Princeton, NJ","USA",497,404
+433,"University of Texas Southwestern Medical Center at Dallas","Dallas, TX","USA",498,405
+366,"University of Wisconsin","Madison, WI","USA",500,406
+862,"University of Strasbourg","Strasbourg","France",503,407
+309,"Brussels University","Brussels","Belgium",504,408
+85,"Harvard University","Cambridge, MA","USA",505,409
+396,"National Institutes of Health","Bethesda, MD","USA",506,410
+317,"Vienna University","Vienna","Austria",507,411
+131,"IBM Zurich Research Laboratory","Rüschlikon","Switzerland",508,412
+120,"Uppsala University","Uppsala","Sweden",509,413
+321,"Rockefeller Institute for Medical Research","New York, NY","USA",512,414
+400,"Zoologisches Institut der Universität München","Munich","Germany",513,415
+228,"Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research)","Mülheim/Ruhr","Germany",514,416
+386,"Rockefeller University","New York, NY","USA",517,417
+257,"Kyoto University","Kyoto","Japan",518,418
+121,"Cornell University","Ithaca, NY","USA",519,419
+682,"Harvard University","Cambridge, MA","USA",520,420
+943,"LIGO/VIRGO Collaboration",\N,\N,523,421
+943,"California Institute of Technology (Caltech)","Pasadena, CA","USA",523,422
+126,"Max-Planck-Institut für Festkörperforschung","Stuttgart","Germany",525,423
+757,"Shimadzu Corp.","Kyoto","Japan",528,424
+378,"Harvard University","Cambridge, MA","USA",529,425
+401,"Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie","Altenberg; Grünau im Almtal","Austria",530,426
+850,"University of Manchester","Manchester","United Kingdom",531,427
+211,"Cologne University","Cologne","Germany",532,428
+758,"Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology)","Zurich","Switzerland",533,429
+758,"The Scripps Research Institute","La Jolla, CA","USA",533,430
+236,"Yale University","New Haven, CT","USA",534,431
+895,"University of Chicago","Chicago, IL","USA",535,432
+21,"Victoria University","Manchester","United Kingdom",536,433
+694,"University of Pennsylvania","Philadelphia, PA","USA",537,434
+735,"Fred Hutchinson Cancer Research Center","Seattle, WA","USA",541,435
+97,"IBM Thomas J. Watson Research Center","Yorktown Heights, NY","USA",542,436
+132,"Fermi National Accelerator Laboratory","Batavia, IL","USA",545,437
+95,"Brown University","Providence, RI","USA",546,438
+820,"University of Minnesota","Minneapolis, MN","USA",547,439
+686,"Academy of Sciences","Moscow","USSR",548,440
+200,"Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology)","Zurich","Switzerland",549,441
+77,"Academy of Sciences","Moscow","USSR",551,442
+775,"Fred Hutchinson Cancer Research Center","Seattle, WA","USA",553,443
+217,"California Institute of Technology (Caltech)","Pasadena, CA","USA",554,444
+217,"California Institute of Technology (Caltech)","Pasadena, CA","USA",555,445
+883,"University of California","Los Angeles, CA","USA",557,446
+8,"Royal Institution of Great Britain","London","United Kingdom",559,447
+221,"University of Cambridge","Cambridge","United Kingdom",560,448
+36,"Sorbonne University, Institut Henri Poincaré","Paris","France",561,449
+459,"University of California School of Medicine","Los Angeles, CA","USA",562,450
+92,"University of Grenoble","Grenoble","France",563,451
+472,"Sorbonne University","Paris","France",564,452
+825,"World Foundation for AIDS Research and Prevention","Paris","France",566,453
+89,"University of California","Berkeley, CA","USA",569,454
+239,"Institute for Biochemical Research","Buenos Aires","Argentina",570,455
+977,"Binghamton University, State University of New York","New York, NY","USA",571,456
+827,"High Energy Accelerator Research Organization (KEK)","Tsukuba","Japan",573,457
+233,"Max-Planck-Institut für Physikalische Chemie","Göttingen","Germany",575,458
+29,"Uppsala University","Uppsala","Sweden",576,459
+79,"University of California","San Diego, CA","USA",577,460
+6,"Sorbonne University","Paris","France",579,461
+282,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",580,462
+811,"University of Utah","Salt Lake City, UT","USA",581,463
+811,"Howard Hughes Medical Institute","Salt Lake City, UT","USA",581,464
+390,"National Institutes of Health","Bethesda, MD","USA",583,465
+830,"Columbia University","New York, NY","USA",584,466
+889,"Université de Strasbourg","Strasbourg","France",585,467
+889,"Harvard University","Cambridge, MA","USA",585,468
+147,"Stanford University","Stanford, CA","USA",586,469
+451,"National Institute of Environmental Health Sciences","Research Triangle Park, NC","USA",588,470
+100,"University of Cambridge","Cambridge","United Kingdom",589,471
+754,"University of Tokyo","Tokyo","Japan",592,472
+702,"École Nationale Supérieur des Mines de Paris","Paris","France",593,473
+374,"London University","London","United Kingdom",595,474
+61,"Edinburgh University","Edinburgh","United Kingdom",596,475
+391,"California Institute of Technology (Caltech)","Pasadena, CA","USA",597,476
+226,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",598,477
+23,"Berlin University","Berlin","Germany",599,478
+352,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation","New York, NY","USA",600,479
+19,"Frankfurt-on-the-Main University","Frankfurt-on-the-Main","Germany",601,480
+904,"Norwegian University of Science and Technology (NTNU)","Trondheim","Norway",602,481
+225,"University of California","Berkeley, CA","USA",604,482
+133,"Digital Pathways, Inc.","Mountain View, CA","USA",605,483
+705,"University of Chicago","Chicago, IL","USA",607,484
+986,"University of Alberta","Edmonton","Canada",608,485
+984,"Harvard University","Cambridge, MA","USA",609,486
+890,"Stanford University School of Medicine","Stanford, CA","USA",610,487
+939,"Brandeis University","Waltham, MA","USA",611,488
+939,"Howard Hughes Medical Institute","Waltham, MA","USA",611,489
+432,"University of Texas Southwestern Medical Center at Dallas","Dallas, TX","USA",612,490
+279,"University of British Columbia","Vancouver","Canada",613,491
+940,"Rockefeller University","New York, NY","USA",614,492
+974,"University of Geneva","Geneva","Switzerland",615,493
+688,"University of Chicago","Chicago, IL","USA",619,494
+90,"California Institute of Technology (Caltech)","Pasadena, CA","USA",624,495
+718,"Long Term Capital Management","Greenwich, CT","USA",625,496
+497,"Columbia University","New York, NY","USA",634,497
+118,"Harvard University","Cambridge, MA","USA",635,498
+82,"P.N. Lebedev Physical Institute","Moscow","USSR",636,499
+27,"Copenhagen University","Copenhagen","Denmark",637,500
+429,"Basel Institute for Immunology","Basel","Switzerland",638,501
+295,"Finsen Medical Light Institute","Copenhagen","Denmark",639,502
+402,"University of Oxford","Oxford","United Kingdom",640,503
+220,"Institute for Chemical Physics of the Academy of Sciences of the USSR","Moscow","USSR",641,504
+220,"Lomonosov Moscow State University","Moscow","USSR",641,505
+135,"Harvard University","Cambridge, MA","USA",643,506
+196,"Birmingham University","Birmingham","United Kingdom",644,507
+238,"University of Oslo","Oslo","Norway",646,508
+847,"University of California","Berkeley, CA","USA",651,509
+935,"Harvard University","Cambridge, MA","USA",652,510
+813,"University of North Carolina","Chapel Hill, NC","USA",653,511
+829,"Marine Biological Laboratory (MBL)","Woods Hole, MA","USA",656,512
+829,"Boston University Medical School","Massachusetts, MA","USA",656,513
+210,"Kiel University","Kiel","Germany",658,514
+202,"Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie","Berlin-Dahlem","Germany",659,515
+331,"Graz University","Graz","Austria",660,516
+312,"Kiel University","Kiel","Germany",661,517
+48,"Carnegie Institute of Technology","Pittsburgh, PA","USA",662,518
+169,"Goettingen University","Göttingen","Germany",663,519
+322,"Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie","Berlin-Dahlem","Germany",664,520
+73,"University of California","Berkeley, CA","USA",665,521
+35,"London University","London","United Kingdom",666,522
+53,"Victoria University","Manchester","United Kingdom",669,523
+679,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",672,524
+40,"University of Cambridge","Cambridge","United Kingdom",673,525
+254,"Stanford University","Stanford, CA","USA",674,526
+764,"University of Illinois","Urbana, IL","USA",675,527
+287,"University of California","Los Angeles, CA","USA",676,528
+302,"Goettingen University","Göttingen","Germany",677,529
+302,"Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy)","Frankfurt-on-the-Main","Germany",677,530
+723,"Rockefeller University","New York, NY","USA",678,531
+281,"Max-Planck-Institut für Chemie","Mainz","Germany",681,532
+246,"Stanford University","Stanford, CA","USA",682,533
+197,"University of Zurich","Zurich","Switzerland",683,534
+834,"Princeton University","Princeton, NJ","USA",684,535
+969,"NYU Stern School of Business","New York, NY","USA",685,536
+922,"Howard Hughes Medical Institute","Durham, NC","USA",686,537
+922,"Duke University School of Medicine","Durham, NC","USA",686,538
+346,"Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.)","Basel","Switzerland",687,539
+995,"Stanford University","Stanford, CA","USA",688,540
+173,"Toulouse University","Toulouse","France",689,541
+70,"P.N. Lebedev Physical Institute","Moscow","USSR",690,542
+51,"Harvard University","Cambridge, MA","USA",692,543
+856,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",694,544
+769,"Johns Hopkins University School of Medicine","Baltimore, MD","USA",695,545
+455,"St. Jude Children's Research Hospital","Memphis, TN","USA",696,546
+195,"Berlin University","Berlin","Germany",697,547
+195,"Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik","Berlin","Germany",697,548
+815,"Forschungszentrum J&uuml;lich","Jülich","Germany",698,549
+888,"University of Edinburgh","Edinburgh","United Kingdom",700,550
+370,"University College","London","United Kingdom",701,551
+251,"Glynn Research Laboratories","Bodmin","United Kingdom",702,552
+383,"Rockefeller University","New York, NY","USA",703,553
+351,"Mayo Clinic","Rochester, MN","USA",705,554
+107,"Bell Telephone Laboratories","Murray Hill, NJ","USA",706,555
+9,"Kiel University","Kiel","Germany",707,556
+449,"Massachusetts Institute of Technology (MIT), Center for Cancer Research","Cambridge, MA","USA",708,557
+5,"École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry)","Paris","France",709,558
+141,"Collège de France","Paris","France",710,559
+3,"Amsterdam University","Amsterdam","the Netherlands",711,560
+64,"Columbia University","New York, NY","USA",712,561
+110,"Academy of Sciences","Moscow","USSR",714,562
+677,"University of Oslo","Oslo","Norway",716,563
+385,"Karolinska Institutet","Stockholm","Sweden",717,564
+941,"LIGO/VIRGO Collaboration",\N,\N,718,565
+941,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",718,566
+511,"Harvard University","Cambridge, MA","USA",719,567
+863,"Rockefeller University","New York, NY","USA",720,568
+885,"University of California","Berkeley, CA","USA",722,569
+885,"Howard Hughes Medical Institute","Berkeley, CA","USA",722,570
+753,"University of Pennsylvania","Philadelphia, PA","USA",723,571
+989,"Max Planck Institute for Extraterrestrial Physics","Garching","Germany",724,572
+989,"University of California","Berkeley, CA","USA",724,573
+713,"Rheinische Friedrich-Wilhelms-Universität","Bonn","Germany",725,574
+407,"Imperial Cancer Research Fund Laboratory","London","United Kingdom",726,575
+755,"Associated Universities Inc.","Washington, DC","USA",728,576
+774,"Columbia University","New York, NY","USA",729,577
+286,"Rice University","Houston, TX","USA",730,578
+140,"Stanford University","Stanford, CA","USA",731,579
+851,"University of Delaware",\N,\N,732,580
+949,"University of Chicago","Chicago, IL","USA",733,581
+946,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",734,582
+448,"New England Biolabs","Beverly, MA","USA",735,583
+198,"Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung","Heidelberg","Germany",736,584
+198,"University of Heidelberg","Heidelberg","Germany",736,585
+215,"Rowett Research Institute","Bucksburn (Scotland)","United Kingdom",737,586
+86,"California Institute of Technology (Caltech)","Pasadena, CA","USA",738,587
+276,"Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology)","Zurich","Switzerland",739,588
+796,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",740,589
+698,"University of Cambridge","Cambridge","United Kingdom",741,590
+176,"Munich University","Munich","Germany",742,591
+182,"Goettingen University","Göttingen","Germany",743,592
+435,"Institute of Cell Biology of the C.N.R.","Rome","Italy",745,593
+258,"Cornell University","Ithaca, NY","USA",746,594
+28,"California Institute of Technology (Caltech)","Pasadena, CA","USA",747,595
+155,"Stanford University","Stanford, CA","USA",748,596
+996,"Stanford University","Stanford, CA","USA",749,597
+231,"Harvard University","Cambridge, MA","USA",750,598
+308,"Vienna University","Vienna","Austria",751,599
+717,"Harvard University","Cambridge, MA","USA",752,600
+151,"Cornell University","Ithaca, NY","USA",753,601
+714,"University of Chicago","Chicago, IL","USA",755,602
+284,"Rice University","Houston, TX","USA",756,603
+771,"New York University","New York, NY","USA",757,604
+458,"SUNY Health Science Center","Brooklyn, NY","USA",758,605
+848,"University of Cambridge","Cambridge","United Kingdom",759,606
+795,"California Institute of Technology (Caltech)","Pasadena, CA","USA",760,607
+75,"Stanford University","Stanford, CA","USA",761,608
+271,"Max-Planck-Institut für Biochemie","Martinsried","Germany",762,609
+799,"University of Jerusalem, Center for RationalityHebrew","Jerusalem","Israel",763,610
+878,"Howard Hughes Medical Institute",\N,\N,764,611
+878,"Duke University Medical Center","Durham, NC","USA",764,612
+896,"Yale University","New Haven, CT","USA",765,613
+297,"Institute for Infectious Diseases","Berlin","Germany",766,614
+701,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",767,615
+720,"Columbia University","New York, NY","USA",768,616
+232,"University of Chicago","Chicago, IL","USA",769,617
+96,"University of Pennsylvania","Philadelphia, PA","USA",770,618
+709,"University of Chicago","Chicago, IL","USA",771,619
+388,"Cornell University","Ithaca, NY","USA",772,620
+112,"Bell Laboratories","Holmdel, NJ","USA",773,621
+770,"Rockefeller University","New York, NY","USA",774,622
+770,"Howard Hughes Medical Institute","New York, NY","USA",774,623
+399,"University of Oxford","Oxford","United Kingdom",775,624
+822,"University of Chicago","Chicago, IL","USA",776,625
+806,"Stanford University","Stanford, CA","USA",777,626
+411,"The Salk Institute","San Diego, CA","USA",778,627
+988,"University of Oxford","Oxford","United Kingdom",780,628
+422,"California Institute of Technology (Caltech)","Pasadena, CA","USA",781,629
+831,"University of California","San Diego, CA","USA",782,630
+831,"Howard Hughes Medical Institute","San Diego, CA","USA",782,631
+456,"University of Zurich, Institute of Experimental Immunology","Zurich","Switzerland",783,632
+234,"Institute of Physical Chemistry","Cambridge","United Kingdom",785,633
+707,"University of Chicago","Chicago, IL","USA",786,634
+294,"University College","Liverpool","United Kingdom",787,635
+413,"Veterans Administration Hospital","Bronx, NY","USA",788,636
+791,"Harvard University","Cambridge, MA","USA",789,637
+76,"Technical University","Munich","Germany",791,638
+76,"California Institute of Technology (Caltech)","Pasadena, CA","USA",791,639
+277,"California Institute of Technology (Caltech)","Pasadena, CA","USA",792,640
+143,"Princeton University","Princeton, NJ","USA",794,641
+742,"Nagoya University","Nagoya","Japan",795,642
+393,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",797,643
+106,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",800,644
+299,"Madrid University","Madrid","Spain",801,645
+917,"Kitasato University","Tokyo","Japan",802,646
+864,"Lawrence Berkeley National Laboratory","Berkeley, CA","USA",804,647
+864,"University of California","Berkeley, CA","USA",804,648
+353,"Rutgers University","New Brunswick, NJ","USA",808,649
+876,"Collège de France","Paris","France",809,650
+876,"École Normale Supérieure","Paris","France",809,651
+367,"New York University, College of Medicine","New York, NY","USA",810,652
+113,"Harvard University, Lyman Laboratory","Cambridge, MA","USA",811,653
+875,"Kyoto University","Kyoto","Japan",813,654
+875,"Gladstone Institutes","San Francisco, CA","USA",813,655
+908,"University of California","Santa Barbara, CA","USA",816,656
+273,"Yale University","New Haven, CT","USA",817,657
+680,"Harvard University","Cambridge, MA","USA",819,658
+125,"CERN","Geneva","Switzerland",820,659
+84,"Tokyo University of Education","Tokyo","Japan",821,660
+339,"London University","London","United Kingdom",823,661
+693,"Princeton University","Princeton, NJ","USA",824,662
+394,"University College","London","United Kingdom",826,663
+37,"Calcutta University","Calcutta","India",827,664
+323,"University of Oxford","Oxford","United Kingdom",828,665
+219,"University of Oxford","Oxford","United Kingdom",829,666
+369,"Walter and Eliza Hall Institute for Medical Research","Melbourne","Australia",830,667
+320,"University of Cambridge","Cambridge","United Kingdom",831,668
+965,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",832,669
+285,"University of Sussex","Brighton","United Kingdom",833,670
+330,"National Institute for Medical Research","London","United Kingdom",834,671
+341,"University of Oxford","Oxford","United Kingdom",835,672
+932,"Northwestern University","Evanston, IL","USA",836,673
+437,"London University, King's College Hospital Medical School","London","United Kingdom",837,674
+874,"Gurdon Institute","Cambridge","United Kingdom",838,675
+375,"Australian National University","Canberra","Australia",839,676
+812,"Cardiff University","Cardiff","United Kingdom",840,677
+108,"University of Cambridge","Cambridge","United Kingdom",841,678
+737,"Imperial Cancer Research Fund","London","United Kingdom",843,679
+971,"University of Oxford","Oxford","United Kingdom",844,680
+971,"Francis Crick Institute","London","United Kingdom",844,681
+765,"University of Nottingham, School of Physics and Astronomy","Nottingham","United Kingdom",845,682
+207,"University of Oxford","Oxford","United Kingdom",846,683
+163,"University College","London","United Kingdom",847,684
+242,"Rockefeller University","New York, NY","USA",848,685
+457,"University of California School of Medicine","San Francisco, CA","USA",849,686
+434,"Vanderbilt University School of Medicine","Nashville, TN","USA",850,687
+910,"Max Planck Institute for Biophysical Chemistry","Göttingen","Germany",851,688
+910,"German Cancer Research Center","Heidelberg","Germany",851,689
+152,"Stanford University","Stanford, CA","USA",852,690
+115,"Harvard University","Cambridge, MA","USA",853,691
+122,"University of Chicago","Chicago, IL","USA",854,692
+425,"Karolinska Institutet","Stockholm","Sweden",856,693
+436,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",857,694
+162,"Stockholm University","Stockholm","Sweden",858,695
+750,"The Molecular Sciences Institute","Berkeley, CA","USA",860,696
+350,"Basel University","Basel","Switzerland",862,697
+919,"University of Tokyo","Kashiwa","Japan",863,698
+959,"Kyoto University","Kyoto","Japan",864,699
+183,"Uppsala University","Uppsala","Sweden",867,700
+303,"Berne University","Bern","Switzerland",868,701
+793,"Max-Planck-Institut für Quantenoptik","Garching","Germany",870,702
+793,"Ludwig-Maximilians- Universität","Munich","Germany",870,703
+175,"Harvard University","Cambridge, MA","USA",872,704
+692,"University of Chicago","Chicago, IL","USA",873,705
+842,"Yale University","New Haven, CT","USA",874,706
+842,"Howard Hughes Medical Institute","New Haven, CT","USA",874,707
+800,"University of Maryland, Department of Economics and School of Public Policy","College Park, MD","USA",875,708
+886,"Stanford University","Stanford, CA","USA",876,709
+886,"Howard Hughes Medical Institute","Stanford, CA","USA",876,710
+325,"California Institute of Technology (Caltech)","Pasadena, CA","USA",877,711
+357,"Research Division of Infectious Diseases, Children's Medical Center","Boston, MA","USA",878,712
+872,"New York University","New York, NY","USA",879,713
+274,"University of Colorado","Boulder, CO","USA",881,714
+736,"Imperial Cancer Research Fund","London","United Kingdom",882,715
+687,"Yale University","New Haven, CT","USA",883,716
+921,"Francis Crick Institute","Hertfordshire","United Kingdom",885,717
+921,"Clare Hall Laboratory","Hertfordshire","United Kingdom",885,718
+424,"Harvard Medical School","Boston, MA","USA",888,719
+828,"Kyoto Sangyo University","Kyoto","Japan",889,720
+828,"Yukawa Institute for Theoretical Physics (YITP), Kyoto University","Kyoto","Japan",889,721
+703,"University of Oslo","Oslo","Norway",890,722
+69,"Columbia University","New York, NY","USA",891,723
+918,"China Academy of Traditional Chinese Medicine","Beijing","China",892,724
+395,"Karolinska Institutet","Stockholm","Sweden",893,725
+117,"Princeton University","Princeton, NJ","USA",898,726
+841,"MRC Laboratory of Molecular Biology","Cambridge","United Kingdom",899,727
+760,"George Mason University","Fairfax, VA","USA",901,728
+42,"Innsbruck University","Innsbruck","Austria",903,729
+172,"Nancy University","Nancy","France",904,730
+218,"Cornell University","Ithaca, NY","USA",905,731
+767,"P.N. Lebedev Physical Institute","Moscow","Russia",906,732
+248,"Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology)","Zurich","Switzerland",907,733
+255,"Harvard University, Biological Laboratories","Cambridge, MA","USA",908,734
+67,"Bell Telephone Laboratories","Murray Hill, NJ","USA",909,735
+347,"University of Zurich","Zurich","Switzerland",910,736
+290,"University of California","Santa Barbara, CA","USA",911,737
+62,"University of Heidelberg","Heidelberg","Germany",912,738
+62,"Max-Planck-Institut für medizinische Forschung","Heidelberg","Germany",912,739
+178,"Berlin University","Berlin","Germany",913,740
+683,"Harvard University","Cambridge, MA","USA",915,741
+206,"Rockefeller Institute for Medical Research","Princeton, NJ","USA",916,742
+414,"Biozentrum der Universität","Basel","Switzerland",917,743
+361,"Mainz University","Mainz","Germany",918,744
+38,"Leipzig University","Leipzig","Germany",919,745
+1,"Munich University","Munich","Germany",920,746
+168,"Leipzig University","Leipzig","Germany",921,747
+16,"Würzburg University","Würzburg","Germany",922,748
+224,"University of California","Los Angeles, CA","USA",923,749
+839,"Bell Laboratories","Murray Hill, NJ","USA",924,750
+315,"Leiden University","Leiden","the Netherlands",925,751
+123,"California Institute of Technology (Caltech)","Pasadena, CA","USA",926,752
+65,"Semiconductor Laboratory of Beckman Instruments, Inc.","Mountain View, CA","USA",927,753
+20,"University College","London","United Kingdom",928,754
+916,"Drew University","Madison, NJ","USA",930,755
+968,"Yale University","New Haven, CT","USA",931,756
+154,"National Institute of Standards and Technology","Gaithersburg, MD","USA",932,757
+911,"Stanford University","Stanford, CA","USA",933,758
+209,"University of California","Berkeley, CA","USA",934,759
+706,"Stanford University","Stanford, CA","USA",935,760
+970,"Harvard Medical School","Boston, MA","USA",937,761
+970,"Howard Hughes Medical Institute","Chevy Chase, MD","USA",937,762
+970,"Dana-Farber Cancer Institute","Boston, MA","USA",937,763
+970,"Brigham and Women's Hospital","Boston, MA","USA",937,764
+243,"Rockefeller University","New York, NY","USA",939,765
+249,"Harvard University","Cambridge, MA","USA",941,766
+328,"Harvard University","Cambridge, MA","USA",942,767
+328,"Peter Brent Brigham Hospital","Boston, MA","USA",942,768
+716,"Columbia University","New York, NY","USA",943,769
+63,"Stanford University","Stanford, CA","USA",944,770
+739,"Massachusetts Institute of Technology (MIT)","Cambridge, MA","USA",950,771
+137,"University of Bonn","Bonn","Germany",951,772
+50,"Princeton University","Princeton, NJ","USA",952,773
+826,"Enrico Fermi Institute, University of Chicago","Chicago, IL","USA",958,774
+927,"Tokyo Institute of Technology","Tokyo","Japan",959,775
+265,"University of California","Berkeley, CA","USA",960,776
+794,"Institut Français du Pétrole","Rueil-Malmaison","France",961,777
+726,"A.F. Ioffe Physico-Technical Institute","St. Petersburg","Russia",962,778
